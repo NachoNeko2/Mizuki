@@ -279,13 +279,13 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/LyraVoid/Mizuki",
+					url: "https://github.com/NachoNeko2/Mizuki",
 					external: true,
 					icon: "fa7-brands:github",
 				},
 				{
 					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
+					url: "https://space.bilibili.com/3494368029706875",
 					external: true,
 					icon: "fa7-brands:bilibili",
 				},
@@ -379,7 +379,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibili",
 			icon: "fa7-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
+			url: "https://space.bilibili.com/3494368029706875",
 		},
 		{
 			name: "Gitee",
@@ -389,7 +389,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/matsuzaka-yuki",
+			url: "https://github.com/NachoNeko2",
 		},
 		{
 			name: "Codeberg",
@@ -399,7 +399,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Discord",
 			icon: "fa7-brands:discord",
-			url: "https://discord.gg/MqW6TcQtVM",
+			url: "https://discord.gg",
 		},
 	],
 };
@@ -447,7 +447,7 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 };
 
 export const commentConfig: CommentConfig = {
-	enable: false, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
+	enable: true, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
 	system: "twikoo", // 评论系统选择: "twikoo" | "giscus"
 	twikoo: {
 		envId: "https://twikoo.vercel.app",
@@ -475,7 +475,7 @@ export const shareConfig: ShareConfig = {
 
 export const announcementConfig: AnnouncementConfig = {
 	title: "", // 公告标题，填空使用i18n字符串Key.announcement
-	content: "ブログへようこそ！これはサンプルの告知です", // 公告内容
+	content: "Welcome to the blog! This is a sample announcement", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接

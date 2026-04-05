@@ -3,47 +3,32 @@ This website is built with the **Astro** framework using the [Mizuki](https://gi
 
 ::github{repo="LyraVoid/Mizuki"}
 
-## 🌟 Theme Features
+# 关于我 / About Me
+一名热爱编程、热衷于开源与技术分享的开发者，持续探索技术边界，乐于用代码创造实用、有趣的作品。
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+---
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+## 📍 个人简介
+- 专注于**全栈开发**，兼顾前端界面与后端逻辑实现
+- 开源技术爱好者，持续学习、迭代个人项目
+- 崇尚简洁、高效、可维护的代码风格
+- 喜欢用技术解决实际问题，分享干货与开发经验
 
+## 🛠️ 常用技术栈
+> 持续更新中...
+- 前端：HTML5 / CSS3 / JavaScript / Vue3 / React
+- 后端：Node.js / Python / Express
+- 工具：Git / VS Code / Docker / Figma
+- 其他：Markdown / 开源贡献 / 技术写作
 
+## 🚀 GitHub 主页
+我的所有开源项目、代码练习、作品原型均托管在 GitHub，欢迎访问、交流、Star 支持！
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+🔗 **[NachoNeko2's GitHub](https://github.com/NachoNeko2)**
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
-
+## 💬 交流与合作
+- 欢迎在 GitHub 提交 Issue、Pull Request
+- 期待与更多开发者交流技术、共同进步
 ---
 
 *Built with ❤️ using Astro and inspired by modern web design principles.*

@@ -4,6 +4,7 @@
 ::github{repo="LyraVoid/Mizuki"}
 
 # 关于我 / About Me
+![avatar.webp](https://pic.fatetech.cc.cd/file/1775697000029_avatar.webp)
 一名热爱编程、热衷于开源与技术分享的开发者，持续探索技术边界，乐于用代码创造实用、有趣的作品。
 
 ---

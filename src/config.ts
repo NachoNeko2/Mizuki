@@ -267,6 +267,37 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 	blur: 1, // 背景模糊程度
 };
 
+export const lineSwitchConfig: LineSwitchConfig = [
+	// 线路切换配置
+	{
+		nameEn: " ", // 线路名称（英文）
+		nameZh: "本站默认(EdgeOne)", // 线路名称（中文）
+		url: "https://blog.196482.xyz", // 线路URL
+		id: "default", // 线路ID
+		icon: "", // 线路图标
+		isLocal: false, // 是否为本地线路
+		size: 27, // 图标大小
+	},
+	{
+		nameEn: "Cloudflare",
+		nameZh: "海外",
+		url: "https://cfblog.196482.xyz",
+		id: "cf-def",
+		icon: "logos:cloudflare-icon",
+		isLocal: false,
+		size: 27,
+	},
+	{
+		nameEn: "Vercel",
+		nameZh: "海外",
+		url: "https://verblog.196482.xyz",
+		id: "vercel",
+		icon: "logos:vercel-icon",
+		isLocal: false,
+		size: 27,
+	},
+];
+
 export const navBarConfig: NavBarConfig = {
 	links: [
 		LinkPreset.Home,

@@ -368,7 +368,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "/assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	avatar: "https://pic.fatetech.cc.cd/file/1775700308888_avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "Fate命定指冠",
 	bio: "世界很大，我想去看看",
 	typewriter: {

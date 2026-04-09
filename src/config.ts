@@ -523,7 +523,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	mode: "local", // 音乐播放器模式，可选 "local" 或 "meting"
 	meting_api:
 		"https://meting.mysqil.com/api?server=:server&type=:type&id=:id&auth=:auth&r=:r", // Meting API 地址
-	id: "14164869977", // 歌单ID
+	id: "13232813799", // 歌单ID
 	server: "netease", // 音乐源服务器。有的meting的api源支持更多平台,一般来说,netease=网易云音乐, tencent=QQ音乐, kugou=酷狗音乐, xiami=虾米音乐, baidu=百度音乐
 	type: "playlist", // 播单类型
 };
@@ -585,6 +585,22 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 				// 折叠阈值：当分类数量超过5个时自动折叠
 				collapseThreshold: 5,
 			},
+		},
+		{
+			// 组件类型：线路切换组件
+			type: "line-switch",
+			// 是否启用该组件
+			enable: true,
+			// 组件显示顺序
+			order: 4,
+			// 组件位置
+			position: "sticky",
+			// 所在侧边栏
+			sidebar: "left",
+			// CSS 类名
+			class: "onload-animation",
+			// 动画延迟时间
+			animationDelay: 200,
 		},
 		{
 			// 组件类型：标签组件

@@ -1,5 +1,5 @@
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/LyraVoid/Mizuki) theme.
+本网站使用 **Astro** 框架构建，并使用 [Mizuki](https://github.com/LyraVoid/Mizuki) 主题.
 
 ::github{repo="LyraVoid/Mizuki"}
 

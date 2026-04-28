@@ -1,4 +1,4 @@
-7---
+---
 title: 内心语录—波澜不惊
 published: 2026-04-23
 description: 博主的内心很复杂

@@ -112,7 +112,7 @@ export const siteConfig: SiteConfig = {
 	// 壁纸模式配置
 	wallpaperMode: {
 		// 默认壁纸模式：banner=顶部横幅，fullscreen=全屏壁纸，none=无壁纸
-		defaultMode: "banner",
+		defaultMode: "fullscreen",
 		// 整体布局方案切换按钮显示设置（默认："desktop"）
 		// "off" = 不显示
 		// "mobile" = 仅在移动端显示
@@ -266,38 +266,6 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 	opacity: 0.8, // 壁纸透明度
 	blur: 1, // 背景模糊程度
 };
-
-export const lineSwitchConfig: LineSwitchConfig = [
-	// 线路切换配置
-	{
-		nameEn: " ", // 线路名称（英文）
-		nameZh: "本站默认(EdgeOne)", // 线路名称（中文）
-		url: "https://blog.196482.xyz", // 线路URL
-		id: "default", // 线路ID
-		icon: "", // 线路图标
-		isLocal: false, // 是否为本地线路
-		size: 27, // 图标大小
-	},
-	{
-		nameEn: "Cloudflare",
-		nameZh: "海外",
-		url: "https://cfblog.196482.xyz",
-		id: "cf-def",
-		icon: "logos:cloudflare-icon",
-		isLocal: false,
-		size: 27,
-	},
-	{
-		nameEn: "Vercel",
-		nameZh: "海外",
-		url: "https://verblog.196482.xyz",
-		id: "vercel",
-		icon: "logos:vercel-icon",
-		isLocal: false,
-		size: 27,
-	},
-];
-
 export const navBarConfig: NavBarConfig = {
 	links: [
 		LinkPreset.Home,
@@ -319,12 +287,6 @@ export const navBarConfig: NavBarConfig = {
 					url: "https://space.bilibili.com/3494368029706875",
 					external: true,
 					icon: "fa7-brands:bilibili",
-				},
-				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git",
 				},
 			],
 		},
@@ -413,24 +375,9 @@ export const profileConfig: ProfileConfig = {
 			url: "https://space.bilibili.com/3494368029706875",
 		},
 		{
-			name: "Gitee",
-			icon: "mdi:git",
-			url: "https://gitee.com/matsuzakayuki",
-		},
-		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
 			url: "https://github.com/NachoNeko2",
-		},
-		{
-			name: "Codeberg",
-			icon: "simple-icons:codeberg",
-			url: "https://codeberg.org",
-		},
-		{
-			name: "Discord",
-			icon: "fa7-brands:discord",
-			url: "https://discord.gg",
 		},
 	],
 };

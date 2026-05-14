@@ -302,13 +302,13 @@ export const navBarConfig: NavBarConfig = {
 					name: "公益图床",
 					url: "https://github.com/NachoNeko2/Mizuki",
 					external: true,
-					icon: "fa7-brands:github",
+					icon: "fa7-brands:picture",
 				},
 				{
 					name: "公益邮箱",
 					url: "https://fatetech.indevs.in",
 					external: true,
-					icon: "fa7-brands:github",
+					icon: "fa7-brands:email",
 				},
 				{
 					name: "Bilibili",

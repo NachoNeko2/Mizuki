@@ -126,9 +126,17 @@ export const siteConfig: SiteConfig = {
 		src: {
 			desktop: [
 				"/assets/desktop-banner/1.webp",
-				"/assets/desktop-banner/2.webp",
-				"/assets/desktop-banner/3.webp",
-				"/assets/desktop-banner/4.webp",
+			    "/assets/desktop-banner/2.webp",
+			    "/assets/desktop-banner/3.webp",
+			    "/assets/desktop-banner/4.webp",
+			    "/assets/desktop-banner/5.webp",
+			    "/assets/desktop-banner/6.webp",
+			    "/assets/desktop-banner/7.webp",
+		    	"/assets/desktop-banner/8.webp",
+		    	"/assets/desktop-banner/9.webp",
+			    "/assets/desktop-banner/10.webp",
+			    "/assets/desktop-banner/11.webp",
+			    "/assets/desktop-banner/12.webp",
 			], // 桌面横幅图片
 			mobile: [
 				"/assets/mobile-banner/1.webp",

@@ -16,12 +16,12 @@ export type DeviceCategory = Record<string, Device[]> & {
 export const devicesData: DeviceCategory = {
 	OnePlus: [
 		{
-			name: "OnePlus 13T",
-			image: "/images/device/oneplus13t.webp",
-			specs: "Gray / 16G + 1TB",
+			name: "OnePlus 13",
+			image: "/images/device/oneplus13.webp",
+			specs: "Gray / 16G + 512G",
 			description:
-				"Flagship performance, Hasselblad imaging, 80W SuperVOOC.",
-			link: "https://www.oneplus.com/cn/13t",
+				"Flagship performance, Hasselblad imaging, 100W SuperVOOC.",
+			link: "https://www.oneplus.com/cn/13",
 		},
 	],
 	Router: [

@@ -299,6 +299,18 @@ export const navBarConfig: NavBarConfig = {
 					icon: "fa7-brands:github",
 				},
 				{
+					name: "公益图床",
+					url: "https://github.com/NachoNeko2/Mizuki",
+					external: true,
+					icon: "fa7-brands:github",
+				},
+				{
+					name: "公益邮箱",
+					url: "https://fatetech.indevs.in",
+					external: true,
+					icon: "fa7-brands:github",
+				},
+				{
 					name: "Bilibili",
 					url: "https://space.bilibili.com/3494368029706875",
 					external: true,

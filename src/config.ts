@@ -406,7 +406,7 @@ export const licenseConfig: LicenseConfig = {
 
 // Permalink 固定链接配置
 export const permalinkConfig: PermalinkConfig = {
-	enable: false, // 是否启用全局 permalink 功能，关闭时使用默认的文件名作为链接
+	enable: ture, // 是否启用全局 permalink 功能，关闭时使用默认的文件名作为链接
 	/**
 	 * permalink 格式模板
 	 * 支持的占位符：

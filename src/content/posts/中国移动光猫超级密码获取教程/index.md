@@ -2,14 +2,14 @@
 title: 中国移动光猫超级密码获取教程
 published: 2026-03-28
 description: 中国移动光猫超级密码获取教程
-image: https://api.imlazy.ink/img
+image: ./cover.jpg
 tags: ["中国移动", "教程"]
 category: 教程
 draft: false
 pinned: false
 author: Fate命定指冠
 lang: zh
-sourceLink: ./cover.jpg
+sourceLink: https://dmm.ink/2024/10/04/h5-9telnet
 ---
 
 ## 前言

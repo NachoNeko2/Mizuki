@@ -9,7 +9,7 @@ draft: false
 pinned: false
 author: Fate命定指冠
 lang: zh
-sourceLink: https://dmm.ink/2024/10/04/h5-9telnet
+sourceLink: ./cover.jpg
 ---
 
 ## 前言
